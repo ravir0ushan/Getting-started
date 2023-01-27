@@ -1,0 +1,3 @@
+# Getting-started
+Hi everyone , this is me trying to understand git and github.
+So please ignore this repo and mind your own fkin business...
